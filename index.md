@@ -2,18 +2,13 @@
 layout: default
 ---
 
-Group 66: DataVisualization portfolio
+# About Me
+I'm Blake Le, and I am a 4th year student at Oregon State University studying computer science with a focus on data science.
+I'm very interested in different ways to interpret and display data as well as learning from it, specifically the fields of data visualization, artificial intelligence and machine learning.
+I'm proficient with Python, C, C++, HTML, CSS, Intelx86 Assembly, SQL, and Javascript.
+I've had experience in a few graphics frameworks and elements such as OpenMP, CUDA, SIMD, and OpenCL.
+## Projects
 
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
