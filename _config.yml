@@ -1,5 +1,5 @@
-title: blakele.github.io
-description: Blake Le's github page
+title: Blake Le
+description: Blake Le's Github Pages Site
 show_downloads: False
-google_analytics:
+google_analytics: False
 theme: jekyll-theme-time-machine
